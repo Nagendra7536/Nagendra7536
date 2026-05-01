@@ -37,9 +37,9 @@ Here are some of the projects I’m working on:
 
 ## 📊 GitHub Stats
 
-![Nagendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nagendra7536\&show_icons=true\&theme=default)
+![Nagendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=nagendra7536\&show_icons=true\&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nagendra7536\&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nagendra7536\&layout=compact)
 
 ---
 
